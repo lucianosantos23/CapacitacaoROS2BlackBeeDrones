@@ -2,7 +2,7 @@
 
 Sistema para controle de drone com ROS2, incluindo navegação manual, detecção de obstáculos e controle autônomo.
 
-Os codigós dos nós e a classe Drone estão em: src/meu_drone/meu_drone
+Os codigós dos nós e a classe Drone estão em: meu_drone/
 
 🚀 Nós Implementados
 
